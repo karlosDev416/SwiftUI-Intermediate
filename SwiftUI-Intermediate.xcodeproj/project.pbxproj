@@ -18,6 +18,7 @@
 		A6C557592A7584C8001280B8 /* sound-03.caf in Resources */ = {isa = PBXBuildFile; fileRef = A6C557542A7584C7001280B8 /* sound-03.caf */; };
 		A6C5575A2A7584C8001280B8 /* sound-01.caf in Resources */ = {isa = PBXBuildFile; fileRef = A6C557552A7584C7001280B8 /* sound-01.caf */; };
 		A6C5575C2A7588A4001280B8 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C5575B2A7588A4001280B8 /* SoundPlayer.swift */; };
+		A6C5575F2A776C48001280B8 /* RotationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C5575E2A776C48001280B8 /* RotationGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		A6C557542A7584C7001280B8 /* sound-03.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sound-03.caf"; sourceTree = "<group>"; };
 		A6C557552A7584C7001280B8 /* sound-01.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sound-01.caf"; sourceTree = "<group>"; };
 		A6C5575B2A7588A4001280B8 /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
+		A6C5575E2A776C48001280B8 /* RotationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				A6C5575D2A75893A001280B8 /* AVAudioPlayer */,
 				A6C557442A758310001280B8 /* Assets.xcassets */,
 				A6C557462A758310001280B8 /* Preview Content */,
+				A6C5575E2A776C48001280B8 /* RotationGestureView.swift */,
 			);
 			path = "SwiftUI-Intermediate";
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6C557432A75830E001280B8 /* ContentView.swift in Sources */,
+				A6C5575F2A776C48001280B8 /* RotationGestureView.swift in Sources */,
 				A6C5574F2A7583FE001280B8 /* AVAudioPlayerView.swift in Sources */,
 				A6C5575C2A7588A4001280B8 /* SoundPlayer.swift in Sources */,
 				A6C557412A75830E001280B8 /* SwiftUI_IntermediateApp.swift in Sources */,
